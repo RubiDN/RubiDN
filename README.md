@@ -1,4 +1,4 @@
-# Hola, soy Rubi, QA Engineer!
+# Hola, soy Rubi! Quality Assurance Engineer!
 ## About me
 Tengo más de 2 años de experiencia trabajando de forma remota en proyectos del área de tecnología en empresas del sector tecnológico y financiero.
 Me destaco por mi orientación a resultados, pasión por la mejora continua, el enfoque en los detalles y el aprendizaje rápido.
